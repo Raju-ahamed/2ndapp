@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "price": 999.0,
+        "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&q=80&w=600",
+        "description": "Features a durable and lightweight aerospace-grade titanium design with the new Action button, powerful camera upgrades, and the A17 Pro chip."
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S24 Ultra",
+        "price": 1299.99,
+        "image": "https://images.unsplash.com/photo-1707150172465-b91c0db9cc91?auto=format&fit=crop&q=80&w=600",
+        "description": "The ultimate Galaxy smartphone with Galaxy AI, an embedded S Pen, a 200MP camera system, and an ultra-durable titanium frame."
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 8 Pro",
+        "price": 999.0,
+        "image": "https://images.unsplash.com/photo-1698300055275-f9be3381fa21?auto=format&fit=crop&q=80&w=600",
+        "description": "The all-pro phone engineered by Google. It has the best of Google AI, the most advanced Pixel Camera ever, and a stunning Super Actua display."
+    },
+    {
+        "id": 4,
+        "name": "OnePlus 12",
+        "price": 799.99,
+        "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&q=80&w=600",
+        "description": "Redefined flagship featuring the Snapdragon 8 Gen 3, a 4th-gen Hasselblad Camera for Mobile, and ultra-fast 100W SUPERVOOC charging."
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi 14 Ultra",
+        "price": 1099.0,
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&q=80&w=600",
+        "description": "A legendary flagship co-engineered with Leica, featuring a quad-camera system with a 1-inch main sensor and a premium vegan leather finish."
+    }
+]
