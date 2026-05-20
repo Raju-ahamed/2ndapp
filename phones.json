@@ -33,5 +33,40 @@
         "price": 1099.0,
         "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&q=80&w=600",
         "description": "A legendary flagship co-engineered with Leica, featuring a quad-camera system with a 1-inch main sensor and a premium vegan leather finish."
+    },
+    {
+        "id": 6,
+        "name": "iPhone SE (2022)",
+        "price": 429.0,
+        "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&q=80&w=600",
+        "description": "A powerful pocket-sized smartphone featuring the A15 Bionic chip, 5G speed, better battery life, a superstar camera, and a durable design."
+    },
+    {
+        "id": 7,
+        "name": "Samsung Galaxy A54 5G",
+        "price": 449.99,
+        "image": "https://images.unsplash.com/photo-1610945415295-d9b226b480c6?auto=format&fit=crop&q=80&w=600",
+        "description": "An awesome mid-range phone offering a premium design, crisp fluid display, pro-grade triple camera layout, and outstanding 2-day battery life."
+    },
+    {
+        "id": 8,
+        "name": "Google Pixel 8a",
+        "price": 499.0,
+        "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&q=80&w=600",
+        "description": "The AI-forward everyday phone by Google. Packed with the Google Tensor G3 chip, incredible photography tools, and top-tier security features."
+    },
+    {
+        "id": 9,
+        "name": "Motorola Edge 50 Pro",
+        "price": 699.0,
+        "image": "https://images.unsplash.com/photo-1565630916779-e303be97b6f5?auto=format&fit=crop&q=80&w=600",
+        "description": "A sleek, curved-display smartphone with near-stock Android, highly responsive performance, and blazing fast TurboPower charging capabilities."
+    },
+    {
+        "id": 10,
+        "name": "Sony Xperia 1 VI",
+        "price": 1199.0,
+        "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&q=80&w=600",
+        "description": "Designed for creators and multimedia enthusiasts, featuring a true optical telephoto zoom lens, 4K HDR OLED display, and unparalleled audio jack performance."
     }
 ]

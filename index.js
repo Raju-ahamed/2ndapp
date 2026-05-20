@@ -13,8 +13,11 @@ app.get('/phones', (req, res) => {
     res.send(phones);
 })
 app.get('/phones/:id', (req, res) => {
-const id = req.params.id;
-console.log("i ned data for id",id)
+    const id = parseInt(req.params.id);
+    console.log("i ned data for id", id)
+    const phone = phones.find(phone => phone.id === id) || {};
+    res.send(phone)
+
 })
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
